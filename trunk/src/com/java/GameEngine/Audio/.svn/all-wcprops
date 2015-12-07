@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/64/trunk/src/com/java/GameEngine/Audio
+END
+AudioClip.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/src/com/java/GameEngine/Audio/AudioClip.java
+END
+AudioManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/64/trunk/src/com/java/GameEngine/Audio/AudioManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/src/com/java/GameEngine/Audio/package-info.java
+END

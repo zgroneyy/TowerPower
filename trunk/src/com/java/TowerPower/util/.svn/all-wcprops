@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/84/trunk/src/com/java/TowerPower/util
+END
+TextureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/83/trunk/src/com/java/TowerPower/util/TextureManager.java
+END
+PhysicsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/81/trunk/src/com/java/TowerPower/util/PhysicsManager.java
+END
+LevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/78/trunk/src/com/java/TowerPower/util/LevelManager.java
+END
+SoundEffectsManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/src/com/java/TowerPower/util/SoundEffectsManager.java
+END
